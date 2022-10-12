@@ -1,0 +1,1 @@
+document.querySelector(".btn-container").valueAsDate = new Date();

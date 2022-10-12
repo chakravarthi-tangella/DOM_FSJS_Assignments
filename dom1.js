@@ -1,0 +1,2 @@
+document.querySelector(".side-bar .crayons-card .crayons-subtitle-2").innerText = "Chakravarthi";
+document.querySelector(".side-bar .crayons-card .color-base-70").innerText = "I am a Passionate Web Developer";
